@@ -10,3 +10,9 @@
         color: black;
     }
 }
+
+@media screen and (min-width: 1440px) {
+    .link__return {
+        font-size: 3vw;
+    }
+}
